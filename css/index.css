@@ -135,14 +135,14 @@ body{
     font-weight: 200;
     font-family: Josefin sans;
     font-weight: bolder;
-    background: url(../images/xxx.png); /*HEADER BACKGROUND IMAGE*/
+    background: url(../images/WEB_DEVELOPER.png); /*HEADER BACKGROUND IMAGE*/
     background-position: center;
     background-size: cover;
 }
 
 @media (max-width: 1023px){
     #header{
-        background-image: url(../images/yy.png); /*HEADER BACKGROUND IMAGE*/
+        background-image: url(../images/mobile.png); /*HEADER BACKGROUND IMAGE*/
         /* background-position: center; */
         background-size: cover;
     }
